@@ -39,8 +39,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/mad4tv/romcase/releases/latest/download/ROM-Case-1.3.dmg">
-    <img src="https://img.shields.io/badge/Descarregar-ROM%20Case%201.3.dmg-4FB8FF?style=for-the-badge&logo=apple&logoColor=white" alt="Descarregar ROM Case 1.3.dmg">
+  <a href="https://github.com/mad4tv/romcase/releases/latest/download/ROM-Case-1.4.dmg">
+    <img src="https://img.shields.io/badge/Descarregar-ROM%20Case%201.4.dmg-4FB8FF?style=for-the-badge&logo=apple&logoColor=white" alt="Descarregar ROM Case 1.4.dmg">
   </a>
   &nbsp;
   <a href="https://www.buymeacoffee.com/joseteixeira">
@@ -55,7 +55,7 @@
 <p align="center">
   <a href="https://github.com/mad4tv/romcase/releases/latest"><strong>Descarregar o instalador (.dmg)</strong></a>
   ·
-  v1.3 · macOS 14+ · Apple Silicon
+  v1.4 · macOS 14+ · Apple Silicon
   ·
   <a href="https://www.buymeacoffee.com/joseteixeira">Buy Me a Coffee</a>
 </p>
@@ -74,7 +74,7 @@ O **código-fonte permanece privado**. Esta página é documentação e descarre
 
 ## Descarregar
 
-**[ROM-Case-1.3.dmg](https://github.com/mad4tv/romcase/releases/latest/download/ROM-Case-1.3.dmg)** — arrasta **ROM Case** para Aplicações.
+**[ROM-Case-1.4.dmg](https://github.com/mad4tv/romcase/releases/latest/download/ROM-Case-1.4.dmg)** — arrasta **ROM Case** para Aplicações.
 
 [Todas as versões](https://github.com/mad4tv/romcase/releases)
 
@@ -109,10 +109,10 @@ Não mistura layouts. Cartões estilo ArkOS (R36S), Batocera/KNULLI, Anbernic st
 
 ## Instalar
 
-1. [Descarrega o `ROM-Case-1.3.dmg`](https://github.com/mad4tv/romcase/releases/latest/download/ROM-Case-1.3.dmg)
+1. [Descarrega o `ROM-Case-1.4.dmg`](https://github.com/mad4tv/romcase/releases/latest/download/ROM-Case-1.4.dmg)
 2. Se o macOS mostrar **«A Apple não conseguiu confirmar…»** / **Mover para o Lixo**, é o Gatekeeper. **Não** móvas para o Lixo. Clica **OK** e depois:
    - **Definições do Sistema → Privacidade e segurança**
-   - Desce até à mensagem sobre o `ROM-Case-1.3.dmg`
+   - Desce até à mensagem sobre o `ROM-Case-1.4.dmg`
    - **Abrir mesmo assim** → confirma **Abrir**
 3. Arrasta **ROM Case** para **Aplicações**
 4. Se a app em si ficar bloqueada: clique com o botão direito → **Abrir** → confirma
