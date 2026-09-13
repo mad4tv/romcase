@@ -39,8 +39,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/mad4tv/romcase/releases/latest/download/ROM-Case-1.2.1.dmg">
-    <img src="https://img.shields.io/badge/Descarregar-ROM%20Case%201.2.1.dmg-4FB8FF?style=for-the-badge&logo=apple&logoColor=white" alt="Descarregar ROM Case 1.2.1.dmg">
+  <a href="https://github.com/mad4tv/romcase/releases/latest/download/ROM-Case-1.3.dmg">
+    <img src="https://img.shields.io/badge/Descarregar-ROM%20Case%201.3.dmg-4FB8FF?style=for-the-badge&logo=apple&logoColor=white" alt="Descarregar ROM Case 1.3.dmg">
   </a>
   &nbsp;
   <a href="https://www.buymeacoffee.com/joseteixeira">
@@ -51,7 +51,7 @@
 <p align="center">
   <a href="https://github.com/mad4tv/romcase/releases/latest"><strong>Descarregar o instalador (.dmg)</strong></a>
   ·
-  v1.2.1 · macOS 14+ · Apple Silicon
+  v1.3 · macOS 14+ · Apple Silicon
   ·
   <a href="https://www.buymeacoffee.com/joseteixeira">Buy Me a Coffee</a>
 </p>
@@ -70,7 +70,7 @@ O **código-fonte permanece privado**. Esta página é a documentação pública
 
 ## Descarregar
 
-**[ROM-Case-1.2.1.dmg](https://github.com/mad4tv/romcase/releases/latest/download/ROM-Case-1.2.1.dmg)** — arrasta **ROM Case** para Aplicações.
+**[ROM-Case-1.3.dmg](https://github.com/mad4tv/romcase/releases/latest/download/ROM-Case-1.3.dmg)** — arrasta **ROM Case** para Aplicações.
 
 [Todas as versões](https://github.com/mad4tv/romcase/releases)
 
@@ -96,13 +96,17 @@ Não precisas de Xcode para usar a app descarregada.
 | <img src="Resources/menu/menu-duplicates.png" width="72" alt="Duplicados"> | **Duplicados** | Encontra ROMs iguais no cartão e elimina as cópias extra. Fica sempre uma. |
 | <img src="Resources/menu/menu-backup.png" width="72" alt="Arquivo"> | **Arquivo** | Cópia das pastas de ROMs para o Mac, ou clone **integral** `.img` do SD (BOOT incluído) e reposição depois. |
 
-Também: a app **ejeta** o cartão físico inteiro (não uma partição) em todos os sítios onde há cartão ou disco, e **recusa** listar ou tocar no disco interno do Mac.
+Também:
+
+- **Ejetar** aparece junto de cada cartão ou disco. Ejeta o SD físico inteiro (BOOT e SHARE), nunca o disco interno do Mac. Um `.img` montado é desmontado.
+- **Inglês ou português** no menu da primeira abertura (🇵🇹 / 🇬🇧) e na barra à esquerda. A escolha fica gravada. Passa o rato sobre um botão para ver uma dica nessa língua.
+- A primeira abertura mostra um **menu rápido** (Preparar, Arquivo, Passar jogos, Aspeto). Depois usa a barra à esquerda.
 
 Não mistura layouts. Cartões estilo ArkOS (R36S), Batocera/KNULLI, Anbernic stock e muOS ficam cada um nas suas pastas.
 
 ## Instalar
 
-1. [Descarrega o `ROM-Case-1.2.1.dmg`](https://github.com/mad4tv/romcase/releases/latest/download/ROM-Case-1.2.1.dmg)
+1. [Descarrega o `ROM-Case-1.3.dmg`](https://github.com/mad4tv/romcase/releases/latest/download/ROM-Case-1.3.dmg)
 2. Abre o disco e arrasta **ROM Case** para **Aplicações**
 3. Na primeira vez: clique com o botão direito na app → **Abrir** → confirma
 4. Liga um SD, ou larga uma pasta / `.img`
