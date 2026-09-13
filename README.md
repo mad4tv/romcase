@@ -66,7 +66,7 @@ It sees the SD card when you plug it in, names the OS (or lets you pick it), and
 
 English is the default language in the app when macOS is not Portuguese. Click 🇵🇹 or 🇬🇧 on the first-run menu (or in the sidebar) to switch; that choice is remembered.
 
-The **source code stays private**. This page is the public documentation and the place to download the app.
+The **source code stays private**. This page is documentation and downloads. Cloning this repository does **not** include the app source or a working project — only the README and the pictures on this page. The `.dmg` lives in [Releases](https://github.com/mad4tv/romcase/releases), not in git. GitHub cannot turn off cloning of a public repo.
 
 ## Download
 
@@ -79,7 +79,6 @@ The **source code stays private**. This page is the public documentation and the
 - **macOS 14** (Sonoma) or later
 - **Apple Silicon** (M1, M2, M3, M4)
 - An SD card / USB card reader that the Finder can mount
-- First launch: **right-click → Open** (the app is ad-hoc signed, so Gatekeeper asks once)
 - Optional: a [ScreenScraper](https://www.screenscraper.fr) account if you want missing 2D box art filled in
 
 No Xcode is needed to run the downloaded app.
@@ -107,11 +106,15 @@ It will not mix layouts. ArkOS-style cards (R36S), Batocera/KNULLI, Anbernic sto
 ## Install
 
 1. [Download `ROM-Case-1.3.dmg`](https://github.com/mad4tv/romcase/releases/latest/download/ROM-Case-1.3.dmg)
-2. Open the disk image and drag **ROM Case** into **Applications**
-3. First time: right-click the app → **Open** → confirm
-4. Plug in an SD, or drop a folder / `.img`
+2. If macOS shows **“Apple could not verify…”** / **Move to Trash**, that is Gatekeeper. **Do not** move it to the Trash. Click **OK**, then:
+   - **System Settings → Privacy & Security**
+   - Scroll to the message about `ROM-Case-1.3.dmg`
+   - **Open Anyway** → confirm **Open**
+3. Drag **ROM Case** into **Applications**
+4. If the app itself is blocked: right-click → **Open** → confirm
+5. Plug in an SD, or drop a folder / `.img`
 
-If macOS says the app is from an unidentified developer, that is the ad-hoc signature. Right-click → Open is the intended path; do not disable Gatekeeper globally.
+The installer is ad-hoc signed (no Apple notarization yet). Safari and Chrome mark downloads as quarantined; only an Apple Developer ID + notarization removes that warning. Until then, **Open Anyway** in Privacy & Security is the intended path. Do not turn Gatekeeper off.
 
 ## Supported systems
 

@@ -66,7 +66,7 @@ Vê o cartão SD quando o ligas, identifica o OS (ou deixas escolher) e faz o tr
 
 O inglês é a língua predefinida na app quando o macOS não está em português. No menu da primeira abertura (ou na barra à esquerda) clica 🇵🇹 ou 🇬🇧; a escolha fica gravada.
 
-O **código-fonte permanece privado**. Esta página é a documentação pública e o sítio de onde se descarrega a app.
+O **código-fonte permanece privado**. Esta página é documentação e descarregas. Clonar este repositório **não** traz o código da app nem um projeto para compilar — só o README e as imagens desta página. O `.dmg` está em [Releases](https://github.com/mad4tv/romcase/releases), não no git. O GitHub não deixa desligar o clone de um repo público.
 
 ## Descarregar
 
@@ -79,7 +79,6 @@ O **código-fonte permanece privado**. Esta página é a documentação pública
 - **macOS 14** (Sonoma) ou superior
 - **Apple Silicon** (M1, M2, M3, M4)
 - Leitor de cartões SD / USB que o Finder consiga montar
-- Primeira abertura: **clique com o botão direito → Abrir** (a app tem assinatura ad-hoc; o Gatekeeper pergunta uma vez)
 - Opcional: conta [ScreenScraper](https://www.screenscraper.fr) para completar boxart 2D em falta
 
 Não precisas de Xcode para usar a app descarregada.
@@ -107,11 +106,15 @@ Não mistura layouts. Cartões estilo ArkOS (R36S), Batocera/KNULLI, Anbernic st
 ## Instalar
 
 1. [Descarrega o `ROM-Case-1.3.dmg`](https://github.com/mad4tv/romcase/releases/latest/download/ROM-Case-1.3.dmg)
-2. Abre o disco e arrasta **ROM Case** para **Aplicações**
-3. Na primeira vez: clique com o botão direito na app → **Abrir** → confirma
-4. Liga um SD, ou larga uma pasta / `.img`
+2. Se o macOS mostrar **«A Apple não conseguiu confirmar…»** / **Mover para o Lixo**, é o Gatekeeper. **Não** móvas para o Lixo. Clica **OK** e depois:
+   - **Definições do Sistema → Privacidade e segurança**
+   - Desce até à mensagem sobre o `ROM-Case-1.3.dmg`
+   - **Abrir mesmo assim** → confirma **Abrir**
+3. Arrasta **ROM Case** para **Aplicações**
+4. Se a app em si ficar bloqueada: clique com o botão direito → **Abrir** → confirma
+5. Liga um SD, ou larga uma pasta / `.img`
 
-Se o macOS disser que a app é de um programador não identificado, é a assinatura ad-hoc. O caminho certo é clique direito → Abrir; não desligues o Gatekeeper.
+O instalador tem assinatura ad-hoc (ainda sem notarização da Apple). O Safari e o Chrome marcam o download como em quarentena; só uma conta de programador Apple + notarização tira este aviso. Até lá, **Abrir mesmo assim** em Privacidade e segurança é o caminho certo. Não desligues o Gatekeeper.
 
 ## Sistemas suportados
 
