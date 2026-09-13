@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Resources/AppIcon.png" width="128" alt="ROM Case">
+  <img src="Resources/github/AppIcon.png" width="128" alt="ROM Case">
 </p>
 
 <h1 align="center">ROM Case</h1>
@@ -14,23 +14,23 @@
 </p>
 
 <p align="center">
-  <img src="Resources/os/logo-r36s.png" height="48" alt="R36S">
+  <img src="Resources/github/os/logo-r36s.png" height="48" alt="R36S">
   &nbsp;&nbsp;
-  <img src="Resources/os/logo-anbernic.png" height="48" alt="Anbernic">
+  <img src="Resources/github/os/logo-anbernic.png" height="48" alt="Anbernic">
   &nbsp;&nbsp;
-  <img src="Resources/os/logo-arkos.png" height="48" alt="ArkOS">
+  <img src="Resources/github/os/logo-arkos.png" height="48" alt="ArkOS">
   &nbsp;&nbsp;
-  <img src="Resources/os/logo-darkos.png" height="48" alt="dArkOS">
+  <img src="Resources/github/os/logo-darkos.png" height="48" alt="dArkOS">
   &nbsp;&nbsp;
-  <img src="Resources/os/logo-amberelec.png" height="48" alt="AmberELEC">
+  <img src="Resources/github/os/logo-amberelec.png" height="48" alt="AmberELEC">
   &nbsp;&nbsp;
-  <img src="Resources/os/logo-pan4elec.png" height="48" alt="PAN4ELEC">
+  <img src="Resources/github/os/logo-pan4elec.png" height="48" alt="PAN4ELEC">
   &nbsp;&nbsp;
-  <img src="Resources/os/logo-knulli.png" height="48" alt="KNULLI">
+  <img src="Resources/github/os/logo-knulli.png" height="48" alt="KNULLI">
   &nbsp;&nbsp;
-  <img src="Resources/os/logo-rocknix.png" height="48" alt="ROCKNIX">
+  <img src="Resources/github/os/logo-rocknix.png" height="48" alt="ROCKNIX">
   &nbsp;&nbsp;
-  <img src="Resources/os/logo-muos.png" height="48" alt="muOS">
+  <img src="Resources/github/os/logo-muos.png" height="48" alt="muOS">
 </p>
 
 <p align="center">
@@ -88,13 +88,13 @@ Não precisas de Xcode para usar a app descarregada.
 
 | | Tarefa | |
 | :---: | --- | --- |
-| <img src="Resources/menu/menu-prepare.png" width="72" alt="Preparar"> | **Preparar** | Grava o OS num SD vazio (imagem oficial ou um `.img` teu). Consolas típicas: **R36S** (ArkOS, dArkOS, PAN4ELEC, AmberELEC, ROCKNIX, …) e **Anbernic** RG35XX (stock, KNULLI, muOS, ROCKNIX). Segundo cartão opcional só para ROMs. **Apaga o cartão.** |
-| <img src="Resources/menu/menu-transfer.png" width="72" alt="Passar jogos"> | **Passar jogos** | Origem (SD velho, pasta de ROMs ou `.img` montado) → destino. Copia ROMs, BIOS, saves e capas para a pasta que cada OS usa de verdade. |
-| <img src="Resources/menu/menu-structure.png" width="72" alt="Estrutura"> | **Estrutura** | Cria as pastas vazias do OS num cartão novo, antes de copiar. |
-| <img src="Resources/menu/menu-covers.png" width="72" alt="Boxart"> | **Boxart** | Completa a caixa 2D em falta via ScreenScraper (conta de membro no ecrã). Depois Update Gamelists no KNULLI / ArkOS. |
-| <img src="Resources/menu/menu-themes.png" width="72" alt="Temas"> | **Temas** | Listas por OS (ecrãs 4:3 pequenos / Batocera / MustardOS) ou um ZIP / `.muxthm` no cartão. Quem liga o tema é a consola. |
-| <img src="Resources/menu/menu-duplicates.png" width="72" alt="Duplicados"> | **Duplicados** | Encontra ROMs iguais no cartão e elimina as cópias extra. Fica sempre uma. |
-| <img src="Resources/menu/menu-backup.png" width="72" alt="Arquivo"> | **Arquivo** | Cópia das pastas de ROMs para o Mac, ou clone **integral** `.img` do SD (BOOT incluído) e reposição depois. |
+| <img src="Resources/github/menu/menu-prepare.png" width="72" alt="Preparar"> | **Preparar** | Grava o OS num SD vazio (imagem oficial ou um `.img` teu). Consolas típicas: **R36S** (ArkOS, dArkOS, PAN4ELEC, AmberELEC, ROCKNIX, …) e **Anbernic** RG35XX (stock, KNULLI, muOS, ROCKNIX). Segundo cartão opcional só para ROMs. **Apaga o cartão.** |
+| <img src="Resources/github/menu/menu-transfer.png" width="72" alt="Passar jogos"> | **Passar jogos** | Origem (SD velho, pasta de ROMs ou `.img` montado) → destino. Copia ROMs, BIOS, saves e capas para a pasta que cada OS usa de verdade. |
+| <img src="Resources/github/menu/menu-structure.png" width="72" alt="Estrutura"> | **Estrutura** | Cria as pastas vazias do OS num cartão novo, antes de copiar. |
+| <img src="Resources/github/menu/menu-covers.png" width="72" alt="Boxart"> | **Boxart** | Completa a caixa 2D em falta via ScreenScraper (conta de membro no ecrã). Depois Update Gamelists no KNULLI / ArkOS. |
+| <img src="Resources/github/menu/menu-themes.png" width="72" alt="Temas"> | **Temas** | Listas por OS (ecrãs 4:3 pequenos / Batocera / MustardOS) ou um ZIP / `.muxthm` no cartão. Quem liga o tema é a consola. |
+| <img src="Resources/github/menu/menu-duplicates.png" width="72" alt="Duplicados"> | **Duplicados** | Encontra ROMs iguais no cartão e elimina as cópias extra. Fica sempre uma. |
+| <img src="Resources/github/menu/menu-backup.png" width="72" alt="Arquivo"> | **Arquivo** | Cópia das pastas de ROMs para o Mac, ou clone **integral** `.img` do SD (BOOT incluído) e reposição depois. |
 
 Também:
 

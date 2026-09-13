@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Resources/AppIcon.png" width="128" alt="ROM Case">
+  <img src="Resources/github/AppIcon.png" width="128" alt="ROM Case">
 </p>
 
 <h1 align="center">ROM Case</h1>
@@ -14,23 +14,23 @@
 </p>
 
 <p align="center">
-  <img src="Resources/os/logo-r36s.png" height="48" alt="R36S">
+  <img src="Resources/github/os/logo-r36s.png" height="48" alt="R36S">
   &nbsp;&nbsp;
-  <img src="Resources/os/logo-anbernic.png" height="48" alt="Anbernic">
+  <img src="Resources/github/os/logo-anbernic.png" height="48" alt="Anbernic">
   &nbsp;&nbsp;
-  <img src="Resources/os/logo-arkos.png" height="48" alt="ArkOS">
+  <img src="Resources/github/os/logo-arkos.png" height="48" alt="ArkOS">
   &nbsp;&nbsp;
-  <img src="Resources/os/logo-darkos.png" height="48" alt="dArkOS">
+  <img src="Resources/github/os/logo-darkos.png" height="48" alt="dArkOS">
   &nbsp;&nbsp;
-  <img src="Resources/os/logo-amberelec.png" height="48" alt="AmberELEC">
+  <img src="Resources/github/os/logo-amberelec.png" height="48" alt="AmberELEC">
   &nbsp;&nbsp;
-  <img src="Resources/os/logo-pan4elec.png" height="48" alt="PAN4ELEC">
+  <img src="Resources/github/os/logo-pan4elec.png" height="48" alt="PAN4ELEC">
   &nbsp;&nbsp;
-  <img src="Resources/os/logo-knulli.png" height="48" alt="KNULLI">
+  <img src="Resources/github/os/logo-knulli.png" height="48" alt="KNULLI">
   &nbsp;&nbsp;
-  <img src="Resources/os/logo-rocknix.png" height="48" alt="ROCKNIX">
+  <img src="Resources/github/os/logo-rocknix.png" height="48" alt="ROCKNIX">
   &nbsp;&nbsp;
-  <img src="Resources/os/logo-muos.png" height="48" alt="muOS">
+  <img src="Resources/github/os/logo-muos.png" height="48" alt="muOS">
 </p>
 
 <p align="center">
@@ -88,13 +88,13 @@ No Xcode is needed to run the downloaded app.
 
 | | Task | |
 | :---: | --- | --- |
-| <img src="Resources/menu/menu-prepare.png" width="72" alt="Prepare"> | **Prepare** | Write a handheld OS onto a blank SD (official image or a `.img` you already have). Typical devices: **R36S** (ArkOS, dArkOS, PAN4ELEC, AmberELEC, ROCKNIX, …) and **Anbernic** RG35XX (stock, KNULLI, muOS, ROCKNIX). Optional second card for ROMs only. **Erases the card.** |
-| <img src="Resources/menu/menu-transfer.png" width="72" alt="Transfer games"> | **Transfer games** | Source (old SD, ROM folder, or mounted `.img`) → destination. Copies ROMs, BIOS, saves and covers into the folder each OS actually uses. |
-| <img src="Resources/menu/menu-structure.png" width="72" alt="Folders"> | **Folders** | Create the empty OS layout on a new card before you copy anything. |
-| <img src="Resources/menu/menu-covers.png" width="72" alt="Box art"> | **Box art** | Fill in missing 2D boxes via ScreenScraper (member account on screen). Then Update Gamelists on KNULLI / ArkOS. |
-| <img src="Resources/menu/menu-themes.png" width="72" alt="Themes"> | **Themes** | Lists per OS (small 4:3 screens / Batocera / MustardOS) or drop a ZIP / `.muxthm` onto the card. The handheld still turns the theme on. |
-| <img src="Resources/menu/menu-duplicates.png" width="72" alt="Duplicates"> | **Duplicates** | Find identical ROM files on the card and delete the extras. One copy is always kept. |
-| <img src="Resources/menu/menu-backup.png" width="72" alt="Archive"> | **Archive** | Copy ROM folders to the Mac, or clone the **whole** SD to a `.img` (BOOT included) and restore it later. |
+| <img src="Resources/github/menu/menu-prepare.png" width="72" alt="Prepare"> | **Prepare** | Write a handheld OS onto a blank SD (official image or a `.img` you already have). Typical devices: **R36S** (ArkOS, dArkOS, PAN4ELEC, AmberELEC, ROCKNIX, …) and **Anbernic** RG35XX (stock, KNULLI, muOS, ROCKNIX). Optional second card for ROMs only. **Erases the card.** |
+| <img src="Resources/github/menu/menu-transfer.png" width="72" alt="Transfer games"> | **Transfer games** | Source (old SD, ROM folder, or mounted `.img`) → destination. Copies ROMs, BIOS, saves and covers into the folder each OS actually uses. |
+| <img src="Resources/github/menu/menu-structure.png" width="72" alt="Folders"> | **Folders** | Create the empty OS layout on a new card before you copy anything. |
+| <img src="Resources/github/menu/menu-covers.png" width="72" alt="Box art"> | **Box art** | Fill in missing 2D boxes via ScreenScraper (member account on screen). Then Update Gamelists on KNULLI / ArkOS. |
+| <img src="Resources/github/menu/menu-themes.png" width="72" alt="Themes"> | **Themes** | Lists per OS (small 4:3 screens / Batocera / MustardOS) or drop a ZIP / `.muxthm` onto the card. The handheld still turns the theme on. |
+| <img src="Resources/github/menu/menu-duplicates.png" width="72" alt="Duplicates"> | **Duplicates** | Find identical ROM files on the card and delete the extras. One copy is always kept. |
+| <img src="Resources/github/menu/menu-backup.png" width="72" alt="Archive"> | **Archive** | Copy ROM folders to the Mac, or clone the **whole** SD to a `.img` (BOOT included) and restore it later. |
 
 Also:
 
