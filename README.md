@@ -46,6 +46,10 @@
   <a href="https://www.buymeacoffee.com/joseteixeira">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-joseteixeira-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee">
   </a>
+  &nbsp;
+  <a href="https://github.com/mad4tv/romcase/releases">
+    <img src="https://img.shields.io/github/downloads/mad4tv/romcase/total?style=for-the-badge&logo=github&logoColor=white&label=Downloads" alt="GitHub downloads">
+  </a>
 </p>
 
 <p align="center">
@@ -115,6 +119,20 @@ It will not mix layouts. ArkOS-style cards (R36S), Batocera/KNULLI, Anbernic sto
 5. Plug in an SD, or drop a folder / `.img`
 
 The installer is ad-hoc signed (no Apple notarization yet). Safari and Chrome mark downloads as quarantined; only an Apple Developer ID + notarization removes that warning. Until then, **Open Anyway** in Privacy & Security is the intended path. Do not turn Gatekeeper off.
+
+## Disclaimer — you can lose data
+
+**ROM Case can permanently erase or overwrite what is on an SD card.** Prepare writes a handheld OS (the whole card goes). Restoring a `.img` does the same. **Move** deletes files on the source after copying. **Duplicates** deletes extra copies. Power loss, a failing card, or picking the wrong volume can make it worse: games, saves, BIOS, artwork, or the handheld’s system may be gone.
+
+**You** are responsible for:
+
+- Making a backup (**Archive**) before you write, move, or erase
+- Checking that the selected card is the one you meant (name and size)
+- The ROMs, BIOS and firmware images you choose, and for having the right to use them
+
+The app is provided **as-is, without warranty**. To the extent the law allows, **José A. Teixeira (AKA Mad4linux)** is not liable for data loss, damaged cards, handhelds that no longer boot, or any other damage from using ROM Case.
+
+Downloading or using the app means you have read this and accept that the risk and the responsibility are yours.
 
 ## Supported systems
 

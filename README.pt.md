@@ -46,6 +46,10 @@
   <a href="https://www.buymeacoffee.com/joseteixeira">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-joseteixeira-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee">
   </a>
+  &nbsp;
+  <a href="https://github.com/mad4tv/romcase/releases">
+    <img src="https://img.shields.io/github/downloads/mad4tv/romcase/total?style=for-the-badge&logo=github&logoColor=white&label=Downloads" alt="Descarregamentos no GitHub">
+  </a>
 </p>
 
 <p align="center">
@@ -115,6 +119,20 @@ Não mistura layouts. Cartões estilo ArkOS (R36S), Batocera/KNULLI, Anbernic st
 5. Liga um SD, ou larga uma pasta / `.img`
 
 O instalador tem assinatura ad-hoc (ainda sem notarização da Apple). O Safari e o Chrome marcam o download como em quarentena; só uma conta de programador Apple + notarização tira este aviso. Até lá, **Abrir mesmo assim** em Privacidade e segurança é o caminho certo. Não desligues o Gatekeeper.
+
+## Responsabilidade — podes perder dados
+
+**O ROM Case pode apagar ou substituir de forma permanente o que está num cartão SD.** Preparar grava um sistema na consola (o cartão inteiro vai). Repor um `.img` faz o mesmo. **Mover** apaga os ficheiros na origem depois de copiar. **Duplicados** elimina as cópias extra. Um corte de energia, um cartão avariado ou o volume errado pioram o resultado: jogos, saves, BIOS, capas ou o OS da consola podem desaparecer.
+
+**Tu** és responsável por:
+
+- Fazer um backup (**Arquivo**) antes de gravar, mover ou apagar
+- Confirmar que o cartão escolhido é o certo (nome e tamanho)
+- As ROMs, BIOS e imagens de firmware que escolhes, e por teres o direito de as usar
+
+A app é oferecida **como está, sem garantia**. Na medida permitida pela lei, **José A. Teixeira (AKA Mad4linux)** não responde por perda de dados, cartões danificados, consolas que deixem de arrancar, nem por qualquer outro dano resultante do uso do ROM Case.
+
+Descarregar ou usar a app significa que leste isto e aceitas que o risco e a responsabilidade são teus.
 
 ## Sistemas suportados
 
