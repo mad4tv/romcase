@@ -73,6 +73,20 @@
   <sub>Portuguese · English</sub>
 </p>
 
+<p align="center">
+  <img src="Resources/github/screenshots/transfer-en.png" width="430" alt="Transfer games">
+  &nbsp;
+  <img src="Resources/github/screenshots/prepare-en.png" width="430" alt="Prepare card">
+</p>
+<p align="center">
+  <img src="Resources/github/screenshots/look-en.png" width="430" alt="Box art">
+  &nbsp;
+  <img src="Resources/github/screenshots/archive-en.png" width="430" alt="Archive">
+</p>
+<p align="center">
+  <sub>Transfer · Prepare · Box art · Archive</sub>
+</p>
+
 ---
 
 ## What it is

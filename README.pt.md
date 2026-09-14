@@ -73,6 +73,20 @@
   <sub>Português · English</sub>
 </p>
 
+<p align="center">
+  <img src="Resources/github/screenshots/transfer-pt.png" width="430" alt="Passar jogos">
+  &nbsp;
+  <img src="Resources/github/screenshots/prepare-pt.png" width="430" alt="Preparar cartão">
+</p>
+<p align="center">
+  <img src="Resources/github/screenshots/look-pt.png" width="430" alt="Boxart">
+  &nbsp;
+  <img src="Resources/github/screenshots/archive-pt.png" width="430" alt="Arquivo">
+</p>
+<p align="center">
+  <sub>Passar jogos · Preparar · Boxart · Arquivo</sub>
+</p>
+
 ---
 
 ## O que é
