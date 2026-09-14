@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Resources/github/AppIcon.png" width="128" alt="ROM Case">
+  <img src="Resources/github/AppIcon.png" width="168" alt="ROM Case">
 </p>
 
 <h1 align="center">ROM Case</h1>
@@ -58,6 +58,19 @@
   v1.4 · macOS 14+ · Apple Silicon
   ·
   <a href="https://www.buymeacoffee.com/joseteixeira">Buy Me a Coffee</a>
+</p>
+
+<p align="center">
+  <img src="Resources/github/screenshots/hero.png" width="920" alt="ROM Case on first launch">
+</p>
+
+<p align="center">
+  <img src="Resources/github/screenshots/pt.png" width="440" alt="ROM Case in Portuguese">
+  &nbsp;
+  <img src="Resources/github/screenshots/en.png" width="440" alt="ROM Case in English">
+</p>
+<p align="center">
+  <sub>Portuguese · English</sub>
 </p>
 
 ---
