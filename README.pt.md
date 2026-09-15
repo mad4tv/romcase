@@ -35,12 +35,12 @@
 
 <p align="center">
   <strong>ArkOS</strong> · <strong>dArkOS</strong> · <strong>PAN4ELEC</strong> · <strong>AmberELEC</strong> · <strong>KNULLI</strong> ·
-  <strong>ROCKNIX</strong> · <strong>Anbernic Stock</strong> · <strong>muOS</strong>
+  <strong>ROCKNIX</strong> · <strong>Anbernic Stock</strong> · <strong>Stock OS Mod</strong> · <strong>muOS</strong>
 </p>
 
 <p align="center">
-  <a href="https://github.com/mad4tv/romcase/releases/latest/download/ROM-Case-1.7.1.dmg">
-    <img src="https://img.shields.io/badge/Descarregar-ROM%20Case%201.7.1.dmg-4FB8FF?style=for-the-badge&logo=apple&logoColor=white" alt="Descarregar ROM Case 1.7.1.dmg">
+  <a href="https://github.com/mad4tv/romcase/releases/latest/download/ROM-Case-1.7.2.dmg">
+    <img src="https://img.shields.io/badge/Descarregar-ROM%20Case%201.7.2.dmg-4FB8FF?style=for-the-badge&logo=apple&logoColor=white" alt="Descarregar ROM Case 1.7.2.dmg">
   </a>
   &nbsp;
   <a href="https://www.buymeacoffee.com/joseteixeira">
@@ -55,7 +55,7 @@
 <p align="center">
   <a href="https://github.com/mad4tv/romcase/releases/latest"><strong>Descarregar o instalador (.dmg)</strong></a>
   ·
-  v1.7.1 · macOS 14+ · Apple Silicon
+  v1.7.2 · macOS 14+ · Apple Silicon
   ·
   <a href="https://www.buymeacoffee.com/joseteixeira">Buy Me a Coffee</a>
 </p>
@@ -101,7 +101,7 @@ O **código-fonte permanece privado**. Esta página é documentação e descarre
 
 ## Descarregar
 
-**[ROM-Case-1.7.1.dmg](https://github.com/mad4tv/romcase/releases/latest/download/ROM-Case-1.7.1.dmg)** — arrasta **ROM Case** para Aplicações.
+**[ROM-Case-1.7.2.dmg](https://github.com/mad4tv/romcase/releases/latest/download/ROM-Case-1.7.2.dmg)** — arrasta **ROM Case** para Aplicações.
 
 [Todas as versões](https://github.com/mad4tv/romcase/releases)
 
@@ -118,7 +118,7 @@ Não precisas de Xcode para usar a app descarregada.
 
 | | Tarefa | |
 | :---: | --- | --- |
-| <img src="Resources/github/menu/menu-prepare.png" width="72" alt="Preparar"> | **Preparar** | Grava o OS num SD vazio (imagem oficial ou um `.img` teu). Consolas típicas: **R36S** (ArkOS, dArkOS, PAN4ELEC, AmberELEC, ROCKNIX, …) e **Anbernic** RG35XX (stock, KNULLI, muOS, ROCKNIX). Segundo cartão opcional só para ROMs. **Apaga o cartão.** |
+| <img src="Resources/github/menu/menu-prepare.png" width="72" alt="Preparar"> | **Preparar** | Grava o OS num SD vazio (imagem oficial ou um `.img` teu). Consolas típicas: **R36S** (ArkOS, dArkOS, PAN4ELEC, AmberELEC, ROCKNIX, …) e **Anbernic** RG35XX (stock, **Stock OS Mod**, KNULLI, muOS, ROCKNIX). No Stock OS Mod a app corrige a tabela de partições depois de gravar, para o cartão expandir. Segundo cartão opcional só para ROMs. **Apaga o cartão.** |
 | <img src="Resources/github/menu/menu-transfer.png" width="72" alt="Passar jogos"> | **Passar jogos** | Origem (SD velho, pasta de ROMs ou `.img` montado) → destino. Copia ROMs, BIOS, saves e capas para a pasta que cada OS usa de verdade. |
 | <img src="Resources/github/menu/menu-structure.png" width="72" alt="Estrutura"> | **Estrutura** | Cria as pastas vazias do OS num cartão novo, antes de copiar. |
 | <img src="Resources/github/menu/menu-covers.png" width="72" alt="Boxart"> | **Boxart** | Completa a caixa 2D em falta via ScreenScraper (conta de membro no ecrã). Depois Update Gamelists no KNULLI / ArkOS. |
@@ -136,10 +136,10 @@ Não mistura layouts. Cartões estilo ArkOS (R36S), Batocera/KNULLI, Anbernic st
 
 ## Instalar
 
-1. [Descarrega o `ROM-Case-1.7.1.dmg`](https://github.com/mad4tv/romcase/releases/latest/download/ROM-Case-1.7.1.dmg)
+1. [Descarrega o `ROM-Case-1.7.2.dmg`](https://github.com/mad4tv/romcase/releases/latest/download/ROM-Case-1.7.2.dmg)
 2. Se o macOS mostrar **«A Apple não conseguiu confirmar…»** / **Mover para o Lixo**, é o Gatekeeper. **Não** móvas para o Lixo. Clica **OK** e depois:
    - **Definições do Sistema → Privacidade e segurança**
-   - Desce até à mensagem sobre o `ROM-Case-1.7.1.dmg`
+   - Desce até à mensagem sobre o `ROM-Case-1.7.2.dmg`
    - **Abrir mesmo assim** → confirma **Abrir**
 3. Arrasta **ROM Case** para **Aplicações**
 4. Se a app em si ficar bloqueada: clique com o botão direito → **Abrir** → confirma
@@ -172,6 +172,7 @@ Descarregar ou usar a app significa que leste isto e aceitas que o risco e a res
 | KNULLI | Batocera | **Anbernic** RG35XX |
 | ROCKNIX | Batocera | **R36S** · RG35XX · JELOS |
 | Anbernic Stock | Anbernic | **Anbernic** RG35XX Pro / Plus / H · OS original |
+| Stock OS Mod | Anbernic | **Anbernic** H700 · mod cbepx-me (cartão expansível) |
 | muOS | MustardOS | **Anbernic** RG35XX · ARCHIVE para temas |
 
 ## Apoiar o projeto
