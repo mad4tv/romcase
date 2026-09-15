@@ -65,26 +65,22 @@
 </p>
 
 <p align="center">
-  <img src="Resources/github/screenshots/pt.png" width="440" alt="ROM Case em português">
+  <a href="Resources/github/screenshots/pt.png"><img src="Resources/github/screenshots/pt.png" width="148" alt="Português"></a>
   &nbsp;
-  <img src="Resources/github/screenshots/en.png" width="440" alt="ROM Case in English">
-</p>
-<p align="center">
-  <sub>Português · English</sub>
-</p>
-
-<p align="center">
-  <img src="Resources/github/screenshots/transfer-pt.png" width="430" alt="Passar jogos">
+  <a href="Resources/github/screenshots/en.png"><img src="Resources/github/screenshots/en.png" width="148" alt="English"></a>
   &nbsp;
-  <img src="Resources/github/screenshots/prepare-pt.png" width="430" alt="Preparar cartão">
-</p>
-<p align="center">
-  <img src="Resources/github/screenshots/look-pt.png" width="430" alt="Boxart">
+  <a href="Resources/github/screenshots/transfer-pt.png"><img src="Resources/github/screenshots/transfer-pt.png" width="148" alt="Passar jogos"></a>
   &nbsp;
-  <img src="Resources/github/screenshots/archive-pt.png" width="430" alt="Arquivo">
+  <a href="Resources/github/screenshots/prepare-pt.png"><img src="Resources/github/screenshots/prepare-pt.png" width="148" alt="Preparar cartão"></a>
+  &nbsp;
+  <a href="Resources/github/screenshots/look-pt.png"><img src="Resources/github/screenshots/look-pt.png" width="148" alt="Boxart"></a>
+  &nbsp;
+  <a href="Resources/github/screenshots/archive-pt.png"><img src="Resources/github/screenshots/archive-pt.png" width="148" alt="Arquivo"></a>
+  &nbsp;
+  <a href="Resources/github/screenshots/themes-pt.png"><img src="Resources/github/screenshots/themes-pt.png" width="148" alt="Temas"></a>
 </p>
 <p align="center">
-  <sub>Passar jogos · Preparar · Boxart · Arquivo</sub>
+  <sub>Clica numa miniatura para ver o ecrã completo</sub>
 </p>
 
 ---

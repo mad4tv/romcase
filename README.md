@@ -65,26 +65,22 @@
 </p>
 
 <p align="center">
-  <img src="Resources/github/screenshots/pt.png" width="440" alt="ROM Case in Portuguese">
+  <a href="Resources/github/screenshots/pt.png"><img src="Resources/github/screenshots/pt.png" width="148" alt="Portuguese"></a>
   &nbsp;
-  <img src="Resources/github/screenshots/en.png" width="440" alt="ROM Case in English">
-</p>
-<p align="center">
-  <sub>Portuguese · English</sub>
-</p>
-
-<p align="center">
-  <img src="Resources/github/screenshots/transfer-en.png" width="430" alt="Transfer games">
+  <a href="Resources/github/screenshots/en.png"><img src="Resources/github/screenshots/en.png" width="148" alt="English"></a>
   &nbsp;
-  <img src="Resources/github/screenshots/prepare-en.png" width="430" alt="Prepare card">
-</p>
-<p align="center">
-  <img src="Resources/github/screenshots/look-en.png" width="430" alt="Box art">
+  <a href="Resources/github/screenshots/transfer-en.png"><img src="Resources/github/screenshots/transfer-en.png" width="148" alt="Transfer games"></a>
   &nbsp;
-  <img src="Resources/github/screenshots/archive-en.png" width="430" alt="Archive">
+  <a href="Resources/github/screenshots/prepare-en.png"><img src="Resources/github/screenshots/prepare-en.png" width="148" alt="Prepare card"></a>
+  &nbsp;
+  <a href="Resources/github/screenshots/look-en.png"><img src="Resources/github/screenshots/look-en.png" width="148" alt="Box art"></a>
+  &nbsp;
+  <a href="Resources/github/screenshots/archive-en.png"><img src="Resources/github/screenshots/archive-en.png" width="148" alt="Archive"></a>
+  &nbsp;
+  <a href="Resources/github/screenshots/themes-en.png"><img src="Resources/github/screenshots/themes-en.png" width="148" alt="Themes"></a>
 </p>
 <p align="center">
-  <sub>Transfer · Prepare · Box art · Archive</sub>
+  <sub>Click a thumbnail for the full screenshot</sub>
 </p>
 
 ---
