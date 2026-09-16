@@ -39,8 +39,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/mad4tv/romcase/releases/latest/download/ROM-Case-1.7.2.dmg">
-    <img src="https://img.shields.io/badge/Download-ROM%20Case%201.7.2.dmg-4FB8FF?style=for-the-badge&logo=apple&logoColor=white" alt="Download ROM Case 1.7.2.dmg">
+  <a href="https://github.com/mad4tv/romcase/releases/latest/download/ROM-Case-1.7.3.dmg">
+    <img src="https://img.shields.io/badge/Download-ROM%20Case%201.7.3.dmg-4FB8FF?style=for-the-badge&logo=apple&logoColor=white" alt="Download ROM Case 1.7.3.dmg">
   </a>
   &nbsp;
   <a href="https://www.buymeacoffee.com/joseteixeira">
@@ -55,7 +55,7 @@
 <p align="center">
   <a href="https://github.com/mad4tv/romcase/releases/latest"><strong>Download the installer (.dmg)</strong></a>
   ·
-  v1.7.2 · macOS 14+ · Apple Silicon
+  v1.7.3 · macOS 14+ · Apple Silicon
   ·
   <a href="https://www.buymeacoffee.com/joseteixeira">Buy Me a Coffee</a>
 </p>
@@ -97,7 +97,7 @@ The **source code stays private**. This page is documentation and downloads. Clo
 
 ## Download
 
-**[ROM-Case-1.7.2.dmg](https://github.com/mad4tv/romcase/releases/latest/download/ROM-Case-1.7.2.dmg)** — drag **ROM Case** into Applications.
+**[ROM-Case-1.7.3.dmg](https://github.com/mad4tv/romcase/releases/latest/download/ROM-Case-1.7.3.dmg)** — drag **ROM Case** into Applications.
 
 [All versions](https://github.com/mad4tv/romcase/releases)
 
@@ -132,10 +132,10 @@ It will not mix layouts. ArkOS-style cards (R36S), Batocera/KNULLI, Anbernic sto
 
 ## Install
 
-1. [Download `ROM-Case-1.7.2.dmg`](https://github.com/mad4tv/romcase/releases/latest/download/ROM-Case-1.7.2.dmg)
+1. [Download `ROM-Case-1.7.3.dmg`](https://github.com/mad4tv/romcase/releases/latest/download/ROM-Case-1.7.3.dmg)
 2. If macOS shows **“Apple could not verify…”** / **Move to Trash**, that is Gatekeeper. **Do not** move it to the Trash. Click **OK**, then:
    - **System Settings → Privacy & Security**
-   - Scroll to the message about `ROM-Case-1.7.2.dmg`
+   - Scroll to the message about `ROM-Case-1.7.3.dmg`
    - **Open Anyway** → confirm **Open**
 3. Drag **ROM Case** into **Applications**
 4. If the app itself is blocked: right-click → **Open** → confirm
