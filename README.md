@@ -28,19 +28,17 @@
   &nbsp;&nbsp;
   <img src="Resources/github/os/logo-knulli.png" height="48" alt="KNULLI">
   &nbsp;&nbsp;
-  <img src="Resources/github/os/logo-rocknix.png" height="48" alt="ROCKNIX">
-  &nbsp;&nbsp;
   <img src="Resources/github/os/logo-muos.png" height="48" alt="muOS">
 </p>
 
 <p align="center">
   <strong>ArkOS</strong> · <strong>dArkOS</strong> · <strong>PAN4ELEC</strong> · <strong>AmberELEC</strong> · <strong>KNULLI</strong> ·
-  <strong>ROCKNIX</strong> · <strong>Anbernic Stock</strong> · <strong>Stock OS Mod</strong> · <strong>muOS</strong>
+  <strong>Anbernic Stock</strong> · <strong>Stock OS Mod</strong> · <strong>muOS</strong>
 </p>
 
 <p align="center">
-  <a href="https://github.com/mad4tv/romcase/releases/latest/download/ROM-Case-1.7.3.dmg">
-    <img src="https://img.shields.io/badge/Download-ROM%20Case%201.7.3.dmg-4FB8FF?style=for-the-badge&logo=apple&logoColor=white" alt="Download ROM Case 1.7.3.dmg">
+  <a href="https://github.com/mad4tv/romcase/releases/latest/download/ROM-Case-1.7.4.dmg">
+    <img src="https://img.shields.io/badge/Download-ROM%20Case%201.7.4.dmg-4FB8FF?style=for-the-badge&logo=apple&logoColor=white" alt="Download ROM Case 1.7.4.dmg">
   </a>
   &nbsp;
   <a href="https://www.buymeacoffee.com/joseteixeira">
@@ -55,7 +53,7 @@
 <p align="center">
   <a href="https://github.com/mad4tv/romcase/releases/latest"><strong>Download the installer (.dmg)</strong></a>
   ·
-  v1.7.3 · macOS 14+ · Apple Silicon
+  v1.7.4 · macOS 14+ · Apple Silicon
   ·
   <a href="https://www.buymeacoffee.com/joseteixeira">Buy Me a Coffee</a>
 </p>
@@ -97,7 +95,7 @@ The **source code stays private**. This page is documentation and downloads. Clo
 
 ## Download
 
-**[ROM-Case-1.7.3.dmg](https://github.com/mad4tv/romcase/releases/latest/download/ROM-Case-1.7.3.dmg)** — drag **ROM Case** into Applications.
+**[ROM-Case-1.7.4.dmg](https://github.com/mad4tv/romcase/releases/latest/download/ROM-Case-1.7.4.dmg)** — drag **ROM Case** into Applications.
 
 [All versions](https://github.com/mad4tv/romcase/releases)
 
@@ -114,7 +112,7 @@ No Xcode is needed to run the downloaded app.
 
 | | Task | |
 | :---: | --- | --- |
-| <img src="Resources/github/menu/menu-prepare.png" width="72" alt="Prepare"> | **Prepare** | Write a handheld OS onto a blank SD (official image or a `.img` you already have). Typical devices: **R36S** (ArkOS, dArkOS, PAN4ELEC, AmberELEC, ROCKNIX, …) and **Anbernic** RG35XX (stock, **Stock OS Mod**, KNULLI, muOS, ROCKNIX). Stock OS Mod also fixes the partition table after writing so the card can expand. Optional second card for ROMs only. **Erases the card.** |
+| <img src="Resources/github/menu/menu-prepare.png" width="72" alt="Prepare"> | **Prepare** | Write a handheld OS onto a blank SD (official image or a `.img` you already have). Typical devices: **R36S** (ArkOS, dArkOS, PAN4ELEC, AmberELEC, …) and **Anbernic** RG35XX (stock, **Stock OS Mod**, KNULLI, muOS). Stock OS Mod also fixes the partition table after writing so the card can expand. Optional second card for ROMs only. **Erases the card.** |
 | <img src="Resources/github/menu/menu-transfer.png" width="72" alt="Transfer games"> | **Transfer games** | Source (old SD, ROM folder, or mounted `.img`) → destination. Copies ROMs, BIOS, saves and covers into the folder each OS actually uses. |
 | <img src="Resources/github/menu/menu-structure.png" width="72" alt="Folders"> | **Folders** | Create the empty OS layout on a new card before you copy anything. |
 | <img src="Resources/github/menu/menu-covers.png" width="72" alt="Box art"> | **Box art** | Fill in missing 2D boxes via ScreenScraper (member account on screen). Then Update Gamelists on KNULLI / ArkOS. |
@@ -132,10 +130,10 @@ It will not mix layouts. ArkOS-style cards (R36S), Batocera/KNULLI, Anbernic sto
 
 ## Install
 
-1. [Download `ROM-Case-1.7.3.dmg`](https://github.com/mad4tv/romcase/releases/latest/download/ROM-Case-1.7.3.dmg)
+1. [Download `ROM-Case-1.7.4.dmg`](https://github.com/mad4tv/romcase/releases/latest/download/ROM-Case-1.7.4.dmg)
 2. If macOS shows **“Apple could not verify…”** / **Move to Trash**, that is Gatekeeper. **Do not** move it to the Trash. Click **OK**, then:
    - **System Settings → Privacy & Security**
-   - Scroll to the message about `ROM-Case-1.7.3.dmg`
+   - Scroll to the message about `ROM-Case-1.7.4.dmg`
    - **Open Anyway** → confirm **Open**
 3. Drag **ROM Case** into **Applications**
 4. If the app itself is blocked: right-click → **Open** → confirm
